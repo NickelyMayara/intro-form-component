@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('../../images/bg-intro-desktop.png');
+    background-color: hsl(0, 100%, 74%);
+    font-family: "Inter", sans-serif;
+    color: white;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.secaoGeral{
+    display: flex;
+}
+
+.containerInfo{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 400px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.secao1{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: -100px;
+    justify-content: center;
+    align-items: start;
+}
+
+.secao2{
+    width: 500px;
+    height: 500px;
+    margin-left: 90px;
+}

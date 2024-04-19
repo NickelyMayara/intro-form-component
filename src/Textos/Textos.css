@@ -1,0 +1,11 @@
+.titulo{
+    font-size: 50px;
+    padding: 1px;
+}
+
+.subtitulo{
+    font-size: 15px;
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.802);
+    font-weight: 500;
+}

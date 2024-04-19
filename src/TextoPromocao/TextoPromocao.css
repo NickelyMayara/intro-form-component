@@ -1,0 +1,13 @@
+.textoPromocao{
+    padding: 18px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spanTextoPromocao{
+    color: rgba(255, 255, 255, 0.46);
+}
